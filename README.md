@@ -9,4 +9,7 @@ git push
 git push
 git diff
 git log
+
+git branch
+git checkout -b <branch_name>
 ```
